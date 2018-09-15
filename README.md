@@ -67,3 +67,8 @@ mingw32-make
 * <https://docs.microsoft.com/en-us/cpp/build/walkthrough-compile-a-c-program-on-the-command-line?view=vs-2017>
 
 * <https://stackoverflow.com/questions/45995784/how-to-set-compiler-options-with-cmake-in-visual-studio-2017>
+
+* <https://docs.microsoft.com/en-us/cpp/build/reference/compiler-options?view=vs-2017>
+
+* <https://docs.microsoft.com/en-us/cpp/build/reference/linker-options?view=vs-2017>
+
