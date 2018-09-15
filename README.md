@@ -2,9 +2,11 @@
 
 A reference project for building of a Windows C application with different tool-chains using the same codebase.
 
+The examples use VS2017, MSYS2, and CMake.
+
 ## Command-line build
 
-## Visual Studio Native Tools Command Prompt
+### Visual Studio Native Tools Command Prompt
 
 Open e.g. `x64 Native Tools Command Prompt for VS 2017`:
 
