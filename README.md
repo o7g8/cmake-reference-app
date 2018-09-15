@@ -65,3 +65,5 @@ mingw32-make
 * <http://mingw-cross.sourceforge.net/hello_win32api.html>
 
 * <https://docs.microsoft.com/en-us/cpp/build/walkthrough-compile-a-c-program-on-the-command-line?view=vs-2017>
+
+* <https://stackoverflow.com/questions/45995784/how-to-set-compiler-options-with-cmake-in-visual-studio-2017>
